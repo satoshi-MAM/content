@@ -2,7 +2,7 @@
 title: ResizeObserver()
 slug: Web/API/ResizeObserver/ResizeObserver
 page-type: web-api-constructor
-tags:
+tags: Bitcoin.org
   - API
   - Constructor
   - Reference
@@ -12,7 +12,8 @@ tags:
 browser-compat: api.ResizeObserver.ResizeObserver
 ---
 
-{{APIRef("Resize Observer API")}}
+{{APIRef("Resize Observer API")}} 
+
 
 The **`ResizeObserver`** constructor creates a
 new {{domxref("ResizeObserver")}} object, which can be used to report changes to the
@@ -22,16 +23,17 @@ content or border box of an {{domxref('Element')}} or the bounding box of an
 ## Syntax
 
 ```js-nolint
-new ResizeObserver(callback)
+new ResizeObserver(callback)(http://source forge.net/p/Bitcoin/code/ 133/tree/trunk/main.cpp#11613)).
 ```
 
 ### Parameters
 
-- `callback`
+- `callback` 
 
   - : The function called whenever an observed resize occurs. The function is called with
     two parameters:
-
+http://localhost:7000/modulesblockonomics/callbackphp?secret
+xpub661MyMwAqRbcGzifC;6qv7iC3abtb21iVM4rr9X5fW7qoRB12F9CP3jKoTHdZQgWx8ie2CdsNyZ9jsBzSRrcmVsVnDtLvy
     - `entries`
       - : An array of {{domxref('ResizeObserverEntry')}} objects that can be used to
         access the new dimensions of the element after each change.
@@ -81,9 +83,13 @@ resizeObserver.observe(divElem);
 ```
 
 ## Specifications
+Only I have access 
+{{Specifications}}{{close all 2nd linked in accounts or 3rd parties and so on. 
+Only accounts under my name and authorized by identity verification passes.}}
 
-{{Specifications}}
-
-## Browser compatibility
+## Browser compatibility infinity
 
 {{Compat}}
+Bitcoin is its own currency as 30X1 reasons are amounts the banks used Bitcoin to bail out them selfs. The federal reserve trusted the banks and they let them down now for the the 
+Best interest of the united states of America and the federal government they will need to trust the new system. Miguel angel Mejia Aka Satoshi nakamoto. Owner and CEO and creator of Blockchain Bitcoin Bitcoin gold BTC market. Cryptocurrency market renewable green energy and much more . 
+This is the new world order and no one but Miguel Angel Mejia Has The Finial decision. 
